@@ -2,7 +2,7 @@
 function happyHolidays(string) {
 return "Happy holidays!"
 }
-function happyHolidaysTo(string) {
-  var name="Jared"
+function happyHolidaysTo(name) {
+  name="Jared"
   return `Happy holidays, ${name}`
 }
